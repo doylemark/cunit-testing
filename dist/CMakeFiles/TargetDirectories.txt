@@ -1,0 +1,3 @@
+/Users/markdoyle/compsci/COMP10050/testing/dist/CMakeFiles/testing.dir
+/Users/markdoyle/compsci/COMP10050/testing/dist/CMakeFiles/edit_cache.dir
+/Users/markdoyle/compsci/COMP10050/testing/dist/CMakeFiles/rebuild_cache.dir
